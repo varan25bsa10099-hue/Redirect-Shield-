@@ -22,7 +22,7 @@ Because this extension is built for development, you can load it directly into a
 
 ## 💾 How to Install and Run Instantly
 
-1. **Download the Extension:** Go to the [Releases](https:/varan25bsa10099-hue/github.com//Redirect-Shield/releases) section on the right side of this page and download the **`Redirect-Shield.zip`** file.
+1. **Download the Extension:** Go to the [Releases](https://github.com/varan25bsa10099-hue/Redirect-Shield-/releases) section on the right side of this page and download the **`Redirect-Shield.zip`** file.
 2. **Unpack the Archive:** Extract/unzip the downloaded folder anywhere on your computer.
 3. **Open Browser Settings:** Open Google Chrome or Brave and navigate to the address: `chrome://extensions/`
 4. **Activate Developer Configuration:** Turn on the **Developer mode** toggle switch located in the upper-right corner.
