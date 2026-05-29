@@ -20,11 +20,10 @@ A lightweight, high-performance Chromium browser extension (Manifest V3) designe
 
 Because this extension is built for development, you can load it directly into any Chromium browser (Brave, Google Chrome, Edge, Opera) using these steps:
 
-1. Click the green **Code** button at the top right of this page and select **Download ZIP**.
-2. Extract the downloaded `.zip` folder to a convenient directory on your machine.
-3. Open your browser and navigate to the Extensions management page:
-   - For Chrome/Brave: Type `chrome://extensions/` in the URL address bar and hit Enter.
-4. Locate the **Developer mode** toggle switch in the upper-right corner and turn it **ON**.
-5. Click the **Load unpacked** button in the top-left menu.
-6. Browse your files, select the extracted folder (containing `manifest.json`), and click **Select Folder**.
-7. *(Optional)* Click the puzzle piece icon (🧩) on your browser toolbar and pin **Redirect Shield** for quick access to the UI!
+## 💾 How to Install and Run Instantly
+
+1. **Download the Extension:** Go to the [Releases](https:/varan25bsa10099-hue/github.com//Redirect-Shield/releases) section on the right side of this page and download the **`Redirect-Shield.zip`** file.
+2. **Unpack the Archive:** Extract/unzip the downloaded folder anywhere on your computer.
+3. **Open Browser Settings:** Open Google Chrome or Brave and navigate to the address: `chrome://extensions/`
+4. **Activate Developer Configuration:** Turn on the **Developer mode** toggle switch located in the upper-right corner.
+5. **Mount the Directory:** Click the **Load unpacked** button in the top-left menu, select the extracted folder, and click **Select Folder**.
